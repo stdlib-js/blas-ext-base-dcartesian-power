@@ -16,8 +16,8 @@
 * limitations under the License.
 */
 
-#ifndef STDLIB_BLAS_EXT_BASE_DCARTESIANPOWER_H
-#define STDLIB_BLAS_EXT_BASE_DCARTESIANPOWER_H
+#ifndef STDLIB_BLAS_EXT_BASE_DCARTESIAN_POWER_H
+#define STDLIB_BLAS_EXT_BASE_DCARTESIAN_POWER_H
 
 #include "stdlib/blas/base/shared.h"
 
@@ -42,4 +42,4 @@ void API_SUFFIX(stdlib_strided_dcartesian_power_ndarray)( const CBLAS_INT N, con
 }
 #endif
 
-#endif // !STDLIB_BLAS_EXT_BASE_DCARTESIANPOWER_H
+#endif // !STDLIB_BLAS_EXT_BASE_DCARTESIAN_POWER_H
